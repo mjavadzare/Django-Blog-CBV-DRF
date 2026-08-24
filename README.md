@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/mohamadjavadzare/Django-Blog-CBV-DRF">
-    <img src="https://github.com/mohamadjavadzare/Django-Blog-CBV-DRF/blob/main/core/assets/img/apple-touch-icon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/mjavadzare/Django-Blog-CBV-DRF">
+    <img src="https://github.com/mjavadzare/Django-Blog-CBV-DRF/blob/main/core/assets/img/apple-touch-icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Django-Blog-CBV-DRF</h3>
@@ -10,13 +10,13 @@
     A blog web application with Django and RestFramework!
     <br/>
     <br/>
-    <a href="https://github.com/mohamadjavadzare/Django-Blog-CBV-DRF/issues">Report Bug</a>
+    <a href="https://github.com/mjavadzare/Django-Blog-CBV-DRF/issues">Report Bug</a>
     .
-    <a href="https://github.com/mohamadjavadzare/Django-Blog-CBV-DRF/issues">Request Feature</a>
+    <a href="https://github.com/mjavadzare/Django-Blog-CBV-DRF/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/mohamadjavadzare/Django-Blog-CBV-DRF/total) ![Contributors](https://img.shields.io/github/contributors/mohamadjavadzare/Django-Blog-CBV-DRF?color=dark-green) ![Issues](https://img.shields.io/github/issues/mohamadjavadzare/Django-Blog-CBV-DRF) ![License](https://img.shields.io/github/license/mohamadjavadzare/Django-Blog-CBV-DRF) 
+![Downloads](https://img.shields.io/github/downloads/mjavadzare/Django-Blog-CBV-DRF/total) ![Contributors](https://img.shields.io/github/contributors/mjavadzare/Django-Blog-CBV-DRF?color=dark-green) ![Issues](https://img.shields.io/github/issues/mjavadzare/Django-Blog-CBV-DRF) ![License](https://img.shields.io/github/license/mjavadzare/Django-Blog-CBV-DRF) 
 
 ## Table Of Contents
 
@@ -34,7 +34,7 @@
 
 ## About The Project
 
-![Screen Shot](https://github.com/mohamadjavadzare/Django-Blog-CBV-DRF/blob/main/core/assets/img/shot-1.png)
+![Screen Shot](https://github.com/mjavadzare/Django-Blog-CBV-DRF/blob/main/core/assets/img/shot-1.png)
 
 Welcome to this repository, a comprehensive blog web project that incorporates a powerful stack of tools and technologies. This project leverages Python, Django, Django REST Framework, Docker, Nginx, Redis, PostgreSQL, Gunicorn, and Celery to create a robust and dynamic blogging platform.
 
@@ -105,15 +105,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/mohamadjavadzare/Django-Blog-CBV-DRF/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/mjavadzare/Django-Blog-CBV-DRF/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/mohamadjavadzare/Django-Blog-CBV-DRF/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/mjavadzare/Django-Blog-CBV-DRF/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/mohamadjavadzare/Django-Blog-CBV-DRF/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://github.com/mjavadzare/Django-Blog-CBV-DRF/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -125,11 +125,11 @@ Contributions are what make the open source community such an amazing place to b
 -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/mohamadjavadzare/Django-Blog-CBV-DRF/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/mjavadzare/Django-Blog-CBV-DRF/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **Mohammad Javad Zare** - *Computer Science Graduate* - [Mohammad Javad Zare](https://github.com/mjavadzare/)
+* **Mohammad Javad Zare** - *Computer Science Graduate* - [Github](https://github.com/mjavadzare/)
 <!--
 ## Acknowledgements
 
