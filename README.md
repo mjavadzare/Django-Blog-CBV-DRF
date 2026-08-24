@@ -129,7 +129,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/mohamadjavad
 
 ## Authors
 
-* **Mohamad Javad Zare** - *Computer Science Graduate* - [Mohammad Javad Zare](https://github.com/mjavadzare/)
+* **Mohammad Javad Zare** - *Computer Science Graduate* - [Mohammad Javad Zare](https://github.com/mjavadzare/)
 <!--
 ## Acknowledgements
 
