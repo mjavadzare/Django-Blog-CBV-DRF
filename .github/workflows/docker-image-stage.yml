@@ -25,8 +25,8 @@ jobs:
           cat envs/stage/django/.env
         
       # end of .env creating
-      - name: Setup Docker-Compose
-        run: docker-compose -f docker-compose-stage.yml up -d
+      - name: Setup Docker Compose
+        run: docker compose -f docker-compose-stage.yml up -d
       - name: PostgreSQL Check
         run: |
           DOCKER_CONTAINER_NAME="db-blog"
